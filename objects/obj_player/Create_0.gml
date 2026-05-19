@@ -10,3 +10,5 @@ sprite_index = spr_ply_idle_down;
 mask_index = spr_ply_idle_down;
 anim_index = 0;
 anim_spd = 0.5;
+
+anim_spd = 0.5;

@@ -21,8 +21,8 @@ draw_sprite_ext(
     floor(anim_index),
     x,
     y,
-    0.1,
-    0.1,
+    0.3,
+    0.3,
     0,
     c_white,
     1
