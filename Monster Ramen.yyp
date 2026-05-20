@@ -171,6 +171,7 @@
     {"id":{"name":"spr_nd_ritual_symbols","path":"sprites/spr_nd_ritual_symbols/spr_nd_ritual_symbols.yy",},},
     {"id":{"name":"spr_nd_sheet","path":"sprites/spr_nd_sheet/spr_nd_sheet.yy",},},
     {"id":{"name":"spr_order_table","path":"sprites/spr_order_table/spr_order_table.yy",},},
+    {"id":{"name":"spr_ply_collision","path":"sprites/spr_ply_collision/spr_ply_collision.yy",},},
     {"id":{"name":"spr_ply_idle_down","path":"sprites/spr_ply_idle_down/spr_ply_idle_down.yy",},},
     {"id":{"name":"spr_ply_idle_downleft","path":"sprites/spr_ply_idle_downleft/spr_ply_idle_downleft.yy",},},
     {"id":{"name":"spr_ply_idle_downright","path":"sprites/spr_ply_idle_downright/spr_ply_idle_downright.yy",},},

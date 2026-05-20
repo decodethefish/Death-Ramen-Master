@@ -13,7 +13,7 @@ function scr_enums(){
 		VEGGIES,
 		ORDER,
 	}
-		
+
 // customer system
 	enum CUSTOMER_STATE {
 		SPAWN,
